@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @akp2praveen
-- 👀 I’m interested in ... computer world
-- 🌱 I’m currently learning ...B.E cse
+- 👀 I’m interested in ...computer world
+- 🌱 I’m currently pursuing  ...B.E cse
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... My maild I'd is akp2praveen@gmail.com
+- 📫 to reach me ... My email I'd be akp2praveen@gmail.com
 
 
 <!---
